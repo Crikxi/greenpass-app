@@ -193,8 +193,6 @@ PODS:
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
   - SDWebImage/Core (5.11.1)
-  - share_plus (0.0.1):
-    - Flutter
   - shared_preferences (0.0.1):
     - Flutter
   - SSZipArchive (2.4.2)
@@ -219,7 +217,6 @@ DEPENDENCIES:
   - package_info (from `.symlinks/plugins/package_info/ios`)
   - path_provider (from `.symlinks/plugins/path_provider/ios`)
   - qr_mobile_vision (from `.symlinks/plugins/qr_mobile_vision/ios`)
-  - share_plus (from `.symlinks/plugins/share_plus/ios`)
   - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
   - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
   - vibration (from `.symlinks/plugins/vibration/ios`)
@@ -285,8 +282,6 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/path_provider/ios"
   qr_mobile_vision:
     :path: ".symlinks/plugins/qr_mobile_vision/ios"
-  share_plus:
-    :path: ".symlinks/plugins/share_plus/ios"
   shared_preferences:
     :path: ".symlinks/plugins/shared_preferences/ios"
   url_launcher:
@@ -337,7 +332,6 @@ SPEC CHECKSUMS:
   Protobuf: 7327d4444215b5f18e560a97f879ff5503c4581c
   qr_mobile_vision: 308ef269e6bc257c05a4adf218e02afc2be09736
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
-  share_plus: 056a1e8ac890df3e33cb503afffaf1e9b4fbae68
   shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
   SSZipArchive: e7b4f3d9e780c2acc1764cd88fbf2de28f26e5b2
   SwiftyGif: 5d4af95df24caf1c570dbbcb32a3b8a0763bc6d7
@@ -346,4 +340,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 63230b498245fa63a5c7cbb9e57576906b7c7634
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.1
